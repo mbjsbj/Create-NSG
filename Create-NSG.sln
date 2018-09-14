@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "Create-NSG", "Create-NSG\Create-NSG.deployproj", "{9EB80FDC-F427-497A-BE7A-4E7D09930979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EB80FDC-F427-497A-BE7A-4E7D09930979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB80FDC-F427-497A-BE7A-4E7D09930979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB80FDC-F427-497A-BE7A-4E7D09930979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB80FDC-F427-497A-BE7A-4E7D09930979}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACFFD883-E849-452E-9AAD-03A68452B5B4}
+	EndGlobalSection
+EndGlobal
